@@ -1,8 +1,8 @@
 class Gitrole < Formula
   desc "Switch your full git identity in one command"
   homepage "https://docs.gitrole.dev"
-  url "https://registry.npmjs.org/gitrole/-/gitrole-0.10.5.tgz"
-  sha256 "bc53257eea356ed24f664505ccc420887ab8be0e3135abfd529087b664bf0362"
+  url "https://registry.npmjs.org/gitrole/-/gitrole-0.10.9.tgz"
+  sha256 "36d0e31c36b7cb48fd0d899133c2f572a580e1ef6d5934e8d8ee55d3404ca4df"
   license "MIT"
 
   depends_on "node"
