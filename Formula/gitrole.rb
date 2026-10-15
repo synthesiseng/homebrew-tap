@@ -1,5 +1,5 @@
 class Gitrole < Formula
-  desc "Switch your full git identity in one command"
+  desc "Switch Git name/email and load a saved SSH key when configured"
   homepage "https://docs.gitrole.dev"
   url "https://registry.npmjs.org/gitrole/-/gitrole-0.13.4.tgz"
   sha256 "dc8acaeae9976b85cdc2818cfcba3bab5b23126a2649d9ad356e77f920d560f4"
