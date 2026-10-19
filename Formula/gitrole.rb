@@ -1,8 +1,8 @@
 class Gitrole < Formula
   desc "Switch Git name/email and load a saved SSH key when configured"
   homepage "https://docs.gitrole.dev"
-  url "https://registry.npmjs.org/gitrole/-/gitrole-0.13.4.tgz"
-  sha256 "dc8acaeae9976b85cdc2818cfcba3bab5b23126a2649d9ad356e77f920d560f4"
+  url "https://registry.npmjs.org/gitrole/-/gitrole-0.13.5.tgz"
+  sha256 "03733a3f33502f5eb3f1fd71dcf639614605a1d40bb38699158670d9721e31a9"
   license "MIT"
 
   depends_on "node"
